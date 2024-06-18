@@ -1,0 +1,49 @@
+[
+    {
+      "Name": "Show products in a cart",
+      "Syntax": "SHOW CART",
+      "Description": "Shows all products in your cart"
+    },
+    {
+      "Name": "Add product to a cart",
+      "Syntax": "ADD TO CART [product_id]",
+      "ArgumentsAndDescriptions": 
+      {
+        "product_id": "id of the product, witch you want to add to your cart"
+      },
+      "Description": "adds product to user's cart"
+    },
+    {
+      "Name": "Delete product from cart",
+      "Syntax": "DELETE FROM CART [product_id]",
+      "ArgumentsAndDescriptions":
+      {
+        "product_id":  "id of the product, witch you want to add to your cart"
+      },
+      "Description": "removes product from user's cart"
+    },
+    {
+      "Name": "Show all products",
+      "Syntax": "SHOW ALL PRODUCTS",
+      "Description": "Shows all products in store"
+    },
+    {
+      "Name": "Show more about product",
+      "Syntax": "SHOW INFO [product_id]",
+      "ArgumentsAndDescriptions": 
+      {
+        "product_id": "id of the product"
+      },
+      "Description": "Shows more information about the product"
+    },
+    {
+      "Name": "Show info about myself",
+      "Syntax": "WHOAMI",
+      "Description": "Shows more information about you"
+    },
+    {
+      "Name": "Exit",
+      "Syntax": "EXIT",
+      "Description": "exits the application"
+    }
+]

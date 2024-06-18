@@ -1,0 +1,15 @@
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/bin/Debug/net8.0/EStore.Infrastructure.deps.json
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/bin/Debug/net8.0/EStore.Infrastructure.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/bin/Debug/net8.0/EStore.Infrastructure.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.csproj.AssemblyReference.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.AssemblyInfoInputs.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.AssemblyInfo.cs
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/refint/EStore.Infrastructure.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/ref/EStore.Infrastructure.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/bin/Debug/net8.0/EStore.Domain.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/bin/Debug/net8.0/EStore.Domain.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/Debug/net8.0/EStore.Infrastructure.csproj.CopyComplete

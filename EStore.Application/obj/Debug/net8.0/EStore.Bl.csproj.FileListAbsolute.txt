@@ -1,0 +1,15 @@
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/bin/Debug/net8.0/EStore.Bl.deps.json
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/bin/Debug/net8.0/EStore.Bl.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/bin/Debug/net8.0/EStore.Bl.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/bin/Debug/net8.0/EStore.Dal.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/bin/Debug/net8.0/EStore.Dal.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.csproj.AssemblyReference.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.AssemblyInfoInputs.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.AssemblyInfo.cs
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.csproj.CoreCompileInputs.cache
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.csproj.CopyComplete
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/refint/EStore.Bl.dll
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/EStore.Bl.pdb
+/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Bl/obj/Debug/net8.0/ref/EStore.Bl.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OKqtNP6jefeRMkpncj69FiqBnsnCTs1gDoKKrGMnnM0GRhtzM3CtBd9V85e2TSCzBZJT8o9O8Xw4f02YeAZlw==",
+  "success": true,
+  "projectFilePath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ulkiorra/.nuget/packages/csharpfunctionalextensions/2.42.0/csharpfunctionalextensions.2.42.0.nupkg.sha512"
+  ],
+  "logs": []
+}

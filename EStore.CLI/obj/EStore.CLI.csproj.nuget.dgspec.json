@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.CLI/EStore.CLI.csproj": {}
+  },
+  "projects": {
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj",
+        "projectName": "EStore.Application",
+        "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj",
+        "packagesPath": "/Users/ulkiorra/.nuget/packages/",
+        "outputPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ulkiorra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.CLI/EStore.CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.CLI/EStore.CLI.csproj",
+        "projectName": "EStore.CLI",
+        "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.CLI/EStore.CLI.csproj",
+        "packagesPath": "/Users/ulkiorra/.nuget/packages/",
+        "outputPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.CLI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ulkiorra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj"
+              },
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/EStore.Persistence.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/EStore.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj",
+        "projectName": "EStore.Domain",
+        "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj",
+        "packagesPath": "/Users/ulkiorra/.nuget/packages/",
+        "outputPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ulkiorra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/EStore.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/EStore.Infrastructure.csproj",
+        "projectName": "EStore.Infrastructure",
+        "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/EStore.Infrastructure.csproj",
+        "packagesPath": "/Users/ulkiorra/.nuget/packages/",
+        "outputPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ulkiorra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/EStore.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/EStore.Persistence.csproj",
+        "projectName": "EStore.Persistence",
+        "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/EStore.Persistence.csproj",
+        "packagesPath": "/Users/ulkiorra/.nuget/packages/",
+        "outputPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ulkiorra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Application/EStore.Application.csproj"
+              },
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Domain/EStore.Domain.csproj"
+              },
+              "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/EStore.Infrastructure.csproj": {
+                "projectPath": "/Users/ulkiorra/RiderProjects/EStoreCLI/EStore.Infrastructure/EStore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
